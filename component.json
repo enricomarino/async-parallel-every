@@ -1,6 +1,6 @@
 {
-  "name": "parallel-every",
-  "repo": "component-async/parallel-every",
+  "name": "async-parallel-every",
+  "repo": "enricomarino/async-parallel-every",
   "version": "0.0.0",
   "description": "async parallel every",
   "keywords": [],
